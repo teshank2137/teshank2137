@@ -11,7 +11,7 @@ I like to play games 🎮
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=teshank2137&repo=stockprediction)](https://github.com/teshank2137/stockprediction)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=teshank2137&repo=django-react-firebase-auth)](https://github.com/teshank2137/django-react-firebase-auth)
 
----
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teshank2137&layout=compact)](https://github.com/teshank2137/github-readme-stats)
 
 
