@@ -1,4 +1,4 @@
-# [Teshank Raut](https://teshankraut.me) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# [Teshank Raut](https://teshank.dev) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Teshank Raut, currently pursuing my engineering from D.Y. Patil College Of Engineering, Akurdi, Pune. <br />
 I am a **Full-Stack Developer** 👨‍💻<br />
