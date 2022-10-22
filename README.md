@@ -4,13 +4,6 @@ My name is Teshank Raut, currently pursuing my engineering from D.Y. Patil Colle
 I am a **Full-Stack Developer** 👨‍💻<br />
 I like to play games 🎮
 
-## My Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=teshank2137&repo=fanMerch)](https://github.com/teshank2137/fanmerch)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=teshank2137&repo=portfolio)](https://github.com/teshank2137/portfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=teshank2137&repo=smartAtendence)](https://github.com/teshank2137/smartAtendence)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=teshank2137&repo=stockprediction)](https://github.com/teshank2137/stockprediction)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=teshank2137&repo=django-react-firebase-auth)](https://github.com/teshank2137/django-react-firebase-auth)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teshank2137&layout=compact)](https://github.com/teshank2137/github-readme-stats)
 
